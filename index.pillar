@@ -2,7 +2,7 @@
 <div class="row">
 <div class="col-8">}}}
 
-!Welcome to ESUG
+! Welcome to ESUG
 
 The European Smalltalk User Group (ESUG) is a non-profit users organization that supports all kinds of  initiatives around the Smalltalk programming language. ESUG is supporting especially free-open source actions that benefit the whole Smalltalk community. For example ESUG does:
 
@@ -12,9 +12,16 @@ The European Smalltalk User Group (ESUG) is a non-profit users organization that
 - Support students and researchers to meet and collaborate
 - Organize a yearly conference and sponsor other Smalltalk conferences
 
+!! ESUG 2023 @ Lyon France 
+ *The international ESUG 23 Conference > 2023-Conference/conf2023.pillar* will be held at Lyon (France) from 28 August to 1 September
+- Gastronomic food!
+- Easy to reach (2 hours from Paris Charles de Gaulle)
+- Super nice city *Wikipedia>https://en.wikipedia.org/wiki/Lyon* *Trip advisor>https://www.tripadvisor.com/Attractions-g187265-Activities-Lyon_Rhone_Auvergne_Rhone_Alpes.html*
+- It will be a great conference!
+- Check the *International workshop on Smalltalk Technologies (IWST 2023)>2023-Conference/cfpIWST2023.pillar* - Submission deadline: May 14th, 2023
+- Check the *Call for presentations>2023-Conference/call2023.pillar* - Deadline is 1st of June 2023
 
 !! Past Events
-
 
 !!!! ESUG 2022 
 
@@ -24,6 +31,10 @@ ESUG 2022 Novi Sad, Serbia from 22. - 26.8.2022.
 - *Innovation Technology Awards - 17th Edition>2022-Conference/awardsSubmissions.pillar*
 - Slides in the *ESUG Archive>http://esug.org/data/ESUG2022/*
 - Slides on *Slideshare>https://www.slideshare.net/esug/presentations*
+- Videos on Youtube 
+-- *Main Conference>https://www.youtube.com/playlist?list=PLJ5nSnWzQXi_7LGwiSa-8VwYXELwFQLBt*
+-- *Show us your Project>https://www.youtube.com/playlist?list=PLJ5nSnWzQXi-QLQViXAR41B0KdsSb4-nq*
+- IWST Proceedings at *https://ceur-ws.org/Vol-3325/*
 
 
 !!!! ESUG19: Videos and Slides
@@ -62,6 +73,7 @@ The Slides and Videos for ESUG19 are finally online:
 <b>Platinum Sponsors</b><br>
 <a href="http://gemtalksystems.com"><img src="images/sponsors/sponsor-gemtalksystems.png"  width="300" class="img-responsive" /></a><br>
 <a href="http://www.instantiations.com"><img src="images/sponsors/sponsor-instantiations.png"  width="320" class="img-responsive" /></a><br>
+<a href="http://www.feenk.com"><img src="images/sponsors/sponsor-feenk.png"  height="80" class="img-responsive" /></a><br>
 
 <b>Golden Sponsors</b><br>
 
