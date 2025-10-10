@@ -4,34 +4,68 @@
 
 ! Welcome to ESUG
 
-The European Smalltalk User Group (ESUG) is a non-profit users organization that supports all kinds of  initiatives around the Smalltalk programming language. ESUG is supporting especially free-open source actions that benefit the whole Smalltalk community. For example ESUG does:
+The European Smalltalk User Group (ESUG) is a non-profit user organization that supports all kinds of initiatives around the Smalltalk programming language. ESUG is supporting especially free-open source actions that benefit the whole Smalltalk community. For example ESUG does:
 
 - Link all users of the Smalltalk programming language and environments in Europe, individual and corporate
 - Promote the use of Smalltalk and lectures
+- Promote books
 - Support local users groups and establish new ones
 - Support students and researchers to meet and collaborate
 - Organize a yearly conference and sponsor other Smalltalk conferences
+- Check our sponsoring actions (visit lab, books, summer schools, user groups)
 
-!! ESUG 2023 @ Lyon France 
- *The international ESUG 23 Conference > 2023-Conference/conf2023.pillar* will be held at Lyon (France) from 28 August to 1 September
-- Gastronomic food!
-- Easy to reach (2 hours from Paris Charles de Gaulle)
-- Super nice city *Wikipedia>https://en.wikipedia.org/wiki/Lyon* *Trip advisor>https://www.tripadvisor.com/Attractions-g187265-Activities-Lyon_Rhone_Auvergne_Rhone_Alpes.html*
-- It will be a great conference!
-- Check the *International workshop on Smalltalk Technologies (IWST 2023)>2023-Conference/cfpIWST2023.pillar* - Submission deadline: May 14th, 2023
-- Check the *Call for presentations>2023-Conference/call2023.pillar* - Deadline is 1st of June 2023
+!! ESUG 2025 @ Gdansk Poland
+
+%1 st to 4th July 2025
+
+%- *Main Track Program>2025-Conference/agenda.pillar*
+%- *International Workshop of Smalltalk Technologies (IWST) Program>/2025-Conference/agenda-workshop.html*
+%- *Innovation Technology Awards Submissions & Winners>2025-Conference/awardsSubmissions.pillar*
+%- *Camp Smalltalk>2025-Conference/camp2025.pillar*
+
+*The international ESUG 25 Conference > 2025-Conference/conf2025.pillar* will be held in Gdansk (Poland) from 1st to 4th of July 2025.
+
+- New this year the *isLoop Summer School>https://isloop.pharo.org/events* will be from the 28th to 30th June 2025 colocated with the conference!
+- About the *city of Gdansk>2025-Conference/city2025.pillar* 
+%- - Student volunteer *info>2025-Conference/callForStudents2025.pillar*
+- *Innovation Technology Awards 20th Edition>https://esug.github.io/2025-Conference/awardsCall2025.html*
+- *Conference Program>https://esug.github.io/2025-Conference/agenda.html*
+- *IWST Program>https://esug.org/2025-Conference/agenda-workshop.html* 
+- Slides on *Slideshare>https://www.slideshare.net/esug/presentations* and in the *ESUG Archive>http://archive.esug.org/ESUG2025/*
+
+
+% +Lille Vue Grand Place>file://2024-Conference/images/512/Lille_vue_gd_place_small.png+ Lille view of Grand Place ||
+
 
 !! Past Events
 
-!!!! ESUG 2022 
+!!!! ESUG 2024 
+Lille (France) from 8 to 11 of July 2024.
+- *Main Track Program>2024-Conference/agenda.pillar*
+- *International Workshop of Smalltalk Technolgies (IWST) Program>/2024-Conference/agenda-workshop.html*
+- *Innovation Technology Awards Submissions & Winners>2024-Conference/awardsSubmissions.pillar*
+- *Camp Smalltalk>2024-Conference/camp2024.pillar*
+- Slides on *Slideshare>https://www.slideshare.net/esug/presentations* and in the *ESUG Archive>http://archive.esug.org/ESUG2024/*
+- Videos on Youtube
+-- *Main Conference>https://www.youtube.com/playlist?list=PLJ5nSnWzQXi-uyYOZIVgXg1up_bclQc7e*
+-- *Show us your Project>https://www.youtube.com/playlist?list=PLJ5nSnWzQXi89jwnBCmGPh9xG6shuvuwb*
+
+
+
+!!!! ESUG 2023
+ESUG 2023 Lyon, France from 26 August. - 1 Sept 2023.
+- *ESUG 23 > 2023-Conference/conf2023.pillar* - Check the *program>https://esug.github.io/2023-Conference/agenda.html*.
+- *International workshop on Smalltalk Technologies (IWST 2023) > 2023-Conference/conf2023.pillar*.
+- Slides on *Slideshare>https://www.slideshare.net/esug/presentations* and in the *ESUG Archive>http://archive.esug.org/ESUG2023/*
+- Videos on *Youtube>https://www.youtube.com/playlist?list=PLJ5nSnWzQXi8-w5MAt_Rf-OjNDtBME7nK*
+
+!!!! ESUG 2022
 
 ESUG 2022 Novi Sad, Serbia from 22. - 26.8.2022.
-- *ESUG 22 > 2022-Conference/conf2022.pillar* - Check the *program>https://esug.github.io/2022-Conference/agenda/agenda.html*.
+- *ESUG 22 > 2022-Conference/conf2022.pillar* - Check the *program>https://esug.github.io/2022-Conference/agenda.html*.
 - *International workshop on Smalltalk Technologies (IWST 2022) > 2022-Conference/conf2022.pillar*.
 - *Innovation Technology Awards - 17th Edition>2022-Conference/awardsSubmissions.pillar*
-- Slides in the *ESUG Archive>http://esug.org/data/ESUG2022/*
-- Slides on *Slideshare>https://www.slideshare.net/esug/presentations*
-- Videos on Youtube 
+- Videos on Youtube
 -- *Main Conference>https://www.youtube.com/playlist?list=PLJ5nSnWzQXi_7LGwiSa-8VwYXELwFQLBt*
 -- *Show us your Project>https://www.youtube.com/playlist?list=PLJ5nSnWzQXi-QLQViXAR41B0KdsSb4-nq*
 - IWST Proceedings at *https://ceur-ws.org/Vol-3325/*
@@ -41,7 +75,7 @@ ESUG 2022 Novi Sad, Serbia from 22. - 26.8.2022.
 
 The Slides and Videos for ESUG19 are finally online:
 
-- Slides in the *ESUG Archive>http://esug.org/data/ESUG2019/*
+- Slides in the *ESUG Archive>http://archive.esug.org/ESUG2019/*
 - Slides on *Slideshare>https://www.slideshare.net/esug/presentations*
 
 
@@ -77,7 +111,7 @@ The Slides and Videos for ESUG19 are finally online:
 
 <b>Golden Sponsors</b><br>
 
-<a href="https://www.adesso.de"><img src="images/sponsors/sponsor-adesso2.png" width="280"> </a>
+<a href="https://www.adesso.de"><img src="images/sponsors/sponsor-01.png" width="280" class="img-responsive"> </a>
 <a href="http://www.ohra.nl"><img src="images/sponsors/sponsor-ohra.png" alt="sponsor-ohra.png" width="240" class="img-responsive"/></a><br/>
 
 <br>
@@ -86,6 +120,7 @@ The Slides and Videos for ESUG19 are finally online:
 
 <a href="https://www.lifeware.ch/"><img src="images/sponsors/sponsor-lifeware.png"  width="300" /></a><br>
 <a href="https://www.johnmcintosh.pro/"><img src="images/sponsors/sponsor-SmalltalkConsulting.png"  width="180" /></a><br>
+<a href="https://www.qqdatafruits.be/"><img src="images/sponsors/logoQQDataFruits.png"  width="240" /></a><br>
 
 <br/>
 

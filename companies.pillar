@@ -2,10 +2,11 @@
 "title": "Companies"
 }
 
-!Companies
-!...developing in Smalltalk
+{{{<iframe src="https://app.apptivegrid.de/api/r/6229d48b322a681a3a99ce35/68499405d8779dc15bf38d3d/BDOmRVrRfuAzfyGa0wk2MzubjFOjUzUblB0RZ0cU3clqVrSlMSh" width="992" height="1200" style="border:none;"></iframe>
+}}}
 
-To reference your company in this page, please send fill out *this form>https://app.apptivegrid.de/api/r/6229d48b322a681a3a99ce35/622a08ac322a685a8d99d0f2*
+
+Old entries are below, if your company is listed here, please re-submit it with the link above.
 
 !!Argentina
 -*10 Pines>http://www.10pines.com/* Agile software development & services
@@ -42,21 +43,15 @@ To reference your company in this page, please send fill out *this form>https://
 
 !!Czech Republic
 -*e-Fractal>http://www.efractal.cz/*
--Nidea
 
 !!Denmark
 -*CDM>http://www.cdm.dk/*
 -*sPeople Aps>http://www.speople.dk/*
 
 
-!!Finland
--*MetaCase>http://www.metacase.com/*
-
 
 !!France
 -*AFC Europe>http://www.afceurope.com/*
--BNP
--GTI
 -Laboratoire Pasteur-CERBA
 -*Pharo consortium>http://consortium.pharo.org*
 -*Ontologos Corp>http://www.ontologos-corp.com/*
@@ -66,7 +61,6 @@ To reference your company in this page, please send fill out *this form>https://
 
 
 !!Germany
--*ApptiveGrid GmbH>https://www.apptivegrid.de*
 -*Andrena objects>http://www.andrena.de/*
 -*ATLAS.ti Scientific Software Development GmbH>http://www.atlasti.com/*
 -Collogia *http://www.collphir.de* *http://www.collogia.de*
@@ -75,7 +69,7 @@ To reference your company in this page, please send fill out *this form>https://
 -*Georg Heeg>http://www.heeg.de/*
 -*HRworks>http://www.hrworks.de/*
 -*Intelligent Views>http://www.i-views.de/*
--*PharoPro GmbH>http://pharopro.com*
+-*Kontolino>https://www.kontolino.de*
 -*OBJECT dynamics Software>http://www.objdyn.com/*
 -*objektfabrik>http://www.objektfabrik.de/*
 -*omeleon GmbH>http://omeleon.de/*
@@ -83,8 +77,7 @@ To reference your company in this page, please send fill out *this form>https://
 -*straightec GmbH>http://www.straightec.de/*
 -*Tricept Informationssysteme AG>http://www.tricept.de/*
 -*Tomcat computer GmbH>http://www.tomcat.de/*
--*Spesenfuchs>https://spesenfuchs.de*
--*Zweidenker GmbH>http://www.zweidenker.de/*
+-*Spesenfuchs>https://www.spesenfuchs.de*
 
 
 !!Greece
@@ -109,7 +102,6 @@ To reference your company in this page, please send fill out *this form>https://
 !!Luxembourg
 -Clearstream has an internal VSE application
 
-
 !!The Netherlands
 -*ADP>http://www.adp.nl/productenendiensten/personeelsadministratie/permanii/* Their application named "Perman II" is based on ObjectStudio
 -*LEI>http://www.lei.nl/*
@@ -131,8 +123,6 @@ To reference your company in this page, please send fill out *this form>https://
 
 !!South Africa
 -*FinWorks>http://www.finworks.biz/*
--*Inspired>http://www.inspired.org/*
-
 
 !!Spain
 -*AGBO Business Architecture S.L.>http://www.easyjob.net/*
@@ -148,7 +138,6 @@ To reference your company in this page, please send fill out *this form>https://
 -*Graubündner Kantonalbank>http://www.gkb.ch/*
 -*Inextenso SARL>http://www.inextenso.com/*
 -*Less Informatik AG>http://www.less.ch/*
--*LifeWare>http://www.lifeware.ch/*
 -*Marwik Informatik>http://www.mix.ch/*
 -*MetaProg>http://www.metaprog.com/*
 -*netstyle.ch>http://www.netstyle.ch/*
