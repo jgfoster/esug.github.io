@@ -6,7 +6,7 @@
  	<meta http-equiv="X-UA-Compatible" content="IE=edge">
  	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
-    	<title>ESUG: Your Mobility</title>
+    	<title>ESUG: </title>
     	<link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="/theme/style.css">
@@ -121,35 +121,53 @@
     
     <div class="row justify-content-center">
         <div class="panel-body col-12" style="margin-top: 30px;"><section>
-<h1> Your Mobility</h1>
+<h1> Compile-time PIC Generation using LiveTyping Information</h1>
 
 <p>
-<a id="Promote"></a>
-<figure>
-	<img src="images/Promotion.jpg" width="70%"/>
-	<figcaption>0.1. </figcaption>
-</figure>
-</p>
-</section><section>
-<h1> Mobility Support Action</h1>
-
-<p>
-ESUG wants to support the mobility of students that want to be in contact with research labs doing Smalltalk. 
-We propose 5 grants of 1000 Euros per year to students that want to do internships in labs doing smalltalk.
+Nicolás Matías Sarfati (nmsarfati@gmail.com)
 </p>
 <p>
-Here are the conditions, we should get the following information before taking decisions:
+<strong>Abstract:</strong>
 </p>
-<ul>
-<li> CV of the applicant that should be an ESUG member or a Pharo association member.</li>
-<li> Description of the hosting lab/team</li>
-<li> Short description of the context and work to be done by the student</li>
-<li> Short CV of the person that will supervize the student in the hosting lab</li>
-</ul>
-
 <p>
-At the end of the internship, ESUG wants an electronic document describing the result of the internship.
-It can be a simple report, a paper presented at a conference.
+Dynamic message dispatch is a central feature of Smalltalk and other dynamically
+typed object-oriented languages. However, this flexibility comes at the cost of
+runtime method lookup, which can significantly impact performance. Modern
+Smalltalk virtual machines mitigate this cost using Just-in-Time compilation,
+Inline Caches, and Polymorphic Inline Caches. These caches are normally built
+reactively: a send site must first execute before the VM can observe receiver
+classes and specialize the dispatch. This talk presents an alternative approach
+that uses type information previously collected by LiveTyping to generate ICs
+and PICs proactively, before the VM would normally construct them during execution.
+</p>
+<p>
+The talk will present how this idea was implemented across the image and the
+OpenSmalltalk VM. At the image level, the current implementation focuses on message
+sends whose receivers are instance variables: an analysis identifies those candidate
+sends and uses LiveTyping information to determine the receiver types observed for the
+corresponding variables. At the VM level, a new primitive enables the controlled
+generation and installation of ICs and PICs in JIT-compiled code. Together, these
+two parts form an image-to-VM workflow that turns previously observed type
+information into dispatch caches generated ahead of execution.
+</p>
+<p>
+The experimental results and trade-offs of the approach will also be discussed.
+The evaluation compares proactively generated PICs against the default runtime
+behavior and JIT-only execution across benchmarks with different dispatch and
+allocation characteristics. The results show that proactive cache generation
+can reduce execution time in dispatch-dominated scenarios, especially during
+early execution and in methods with several send sites, while increasing the
+amount of generated machine code.
+</p>
+<p>
+<strong>Bio:</strong>
+</p>
+<p>
+Nicolás Matías Sarfati is a Computer Science student at the University of
+Buenos Aires, currently completing his degree with only the thesis defense
+remaining. He has almost 15 years of experience in the software industry and
+currently works as an independent software architect, helping companies diagnose
+and solve performance issues across their applications and infrastructure.
 </p></section></div>
     </div>
    </div> 

@@ -1,11 +1,17 @@
-! Smooth Flow of Refactorings and Tools
+! Complishon: a Better completion engine for Pharo
 
-Stephane Ducasse
+Stephane Ducasse (stephane.ducasse@inria.fr)
+Omar AbedelKader (omar.abedelkader@inria.fr)
+Mehdi Elkokei (mehdi.elkokei@inria.fr)
 
 ""Abstract:""
-In this talk I will present the new support for refactorings. 
-Now refactorings are accessible from all the Spec tools. 
+This talk will start with an overview of the logic behind Complishon the completion engine of Pharo. 
+- context aware
+- syntactically triggered
+- semantically driven
 
+The talk will go over the default heuristics as well as the new package dependency- oriented features. We will also present the latest UX feature of Complishon such as the way it takes into account your recent coding as well as your recent selection. 
+Finally we will show the tolerance introduction that cope with typos. 
 
 
 ""Bio:""
@@ -14,5 +20,4 @@ I'm interested in virtual machines and language implementation.
 
 I have written several books on language-related subjects and other topics such as learning to program and web programming: some are available at http://books.pharo.org. I co-constructed a highly acclaimed Moocs on Pharo and object programming: http://mooc.pharo.org and https://advanced-design-mooc.pharo.org
 I regularly work with companies such as Arolla, Berger-Levrault, Thales, Framatome, Siemens, CIM, Worldline.
-I'm interested in understanding how to solve their challenges.
-According to Google scholar my h-index is 63 for about 17k citations.
+I'm interested in understandin
